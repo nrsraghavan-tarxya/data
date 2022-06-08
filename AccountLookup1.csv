@@ -1,0 +1,7 @@
+Column Names,Data Type,Valid Values,Missing Values,Max String Length,Min String Length,Oldest Date,Newest Date,Min,Max,Mean,Median,Mode,Standard Deviation,Skew,Sum,first quartile (25%),second quartile (50%),third quartile (75 %),interquartile range,Variance,Kurtosis,Mean absolute deviation
+Account Reference,string,253,251,14,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Account Name,string,253,251,35,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+End Customer Reference,string,253,251,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+End Customer: End Customer Name,string,252,252,55,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Account Reference.1,string,504,0,14,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Account Name.1,string,503,1,55,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

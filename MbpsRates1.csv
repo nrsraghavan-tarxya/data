@@ -1,0 +1,4 @@
+Column Names,Data Type,Valid Values,Missing Values,Max String Length,Min String Length,Oldest Date,Newest Date,Min,Max,Mean,Median,Mode,Standard Deviation,Skew,Sum,first quartile (25%),second quartile (50%),third quartile (75 %),interquartile range,Variance,Kurtosis,Mean absolute deviation
+DPs,string,16,0,55,2,0,0,0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+Unnamed: 1,string,13,3,14,13,0,0,0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0.0,0.0,0.0
+$/Mbps,Int64,16,0,0,0,0,0,243,947,413.625,360.0,360,198.48085549997006,1.7382549800749238,6618,270,360,408,138,39394.65,2.5459188149903422,139.0625

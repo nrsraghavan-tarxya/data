@@ -1,0 +1,505 @@
+Account Reference,Account Name,End Customer Reference,End Customer: End Customer Name,Account Reference,Account Name
+ACC-DP-0000338,NorthwestTel,DP-EC-0000113,NorthwestTel,ACC-DP-0000338,NorthwestTel
+ACC-DP-0000338,NorthwestTel,DP-EC-0000296,Diavik Diamond Mines ( Rio Tinto),ACC-DP-0000338,NorthwestTel
+ACC-DP-0000338,NorthwestTel,DP-EC-0000077,Government of Nunavut,ACC-DP-0000338,NorthwestTel
+ACC-DP-0000042,AST 5G Ltd,DP-EC-0000033,EnQuest,ACC-DP-0000042,AST 5G Ltd
+ACC-DP-0000042,AST 5G Ltd,DP-EC-0000020,AST,ACC-DP-0000042,AST 5G Ltd
+ACC-DP-0000042,AST 5G Ltd,DP-EC-0000019,TaQa,ACC-DP-0000042,AST 5G Ltd
+ACC-DP-0000042,AST 5G Ltd,DP-EC-0000039,Q-00000107 EC,ACC-DP-0000042,AST 5G Ltd
+ACC-DP-0000042,AST 5G Ltd,DP-EC-0000097,Greenland University,ACC-DP-0000042,AST 5G Ltd
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000082,BT - Community Broadband UK,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000080,BT - Global Services - BP Germany,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000081,BT - EE ESN UK -pre 2021,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000093,BT Test Madley,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000095,BT Test Adastral,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000094,BT Test Bristol,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000115,Gas Pipeline,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000161,BT Live,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000239,BP plc,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000242,Coast Guard,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000243,Anglo American,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000241,Enel S.p.A,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000237,Schlumberger,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000238,Royal Dutch Shell,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000240,DHL,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000136,BT Media and Broadcast - South UK,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000079,BT - Media and Broadcast - OB,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000083,TC-Energy,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000060,British Telecommunications pLc,DP-EC-0000078,BT - Enterprise UK,ACC-DP-0000060,British Telecommunications pLc
+ACC-DP-0000199,SpeedCast International Limited,DP-EC-0000277,JL Cadre Yachting,ACC-DP-0000199,SpeedCast International Limited
+ACC-DP-0000199,SpeedCast International Limited,DP-EC-0000275,P2P Networks,ACC-DP-0000199,SpeedCast International Limited
+ACC-DP-0000199,SpeedCast International Limited,DP-EC-0000266,North Sea Rig x 4,ACC-DP-0000199,SpeedCast International Limited
+ACC-DP-0000199,SpeedCast International Limited,DP-EC-0000259,North Sea fixed asset,ACC-DP-0000199,SpeedCast International Limited
+ACC-DP-0000199,SpeedCast International Limited,DP-EC-0000267,SSE Renewable,ACC-DP-0000199,SpeedCast International Limited
+ACC-DP-0000005,Network Innovations,DP-EC-0000229,Network Innovations,ACC-DP-0000005,Network Innovations
+ACC-DP-0000005,Network Innovations,DP-EC-0000172,FCDO Services,ACC-DP-0000005,Network Innovations
+ACC-DP-0000005,Network Innovations,DP-EC-0000015,Foreign Commonwealth & Development Office,ACC-DP-0000005,Network Innovations
+ACC-DP-0000022,Marlink AS,DP-EC-0000268,BP,ACC-DP-0000022,Marlink AS
+ACC-DP-0000022,Marlink AS,DP-EC-0000018,Chevron,ACC-DP-0000022,Marlink AS
+ACC-DP-0000022,Marlink AS,DP-EC-0000278,Fugro,ACC-DP-0000022,Marlink AS
+ACC-DP-0000022,Marlink AS,DP-EC-0000128,Total Energies,ACC-DP-0000022,Marlink AS
+ACC-DP-0000022,Marlink AS,DP-EC-0000225,Marlink AS,ACC-DP-0000022,Marlink AS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000190,Iceland Emergency Responders,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000139,Danish DALO,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000145,Swedish MOD,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000144,Finnish MOD,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000146,German Bundeswehr,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000154,Airbus DS,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000210,UK MOD,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000212,Iceland Emergency Responders 112,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000211,French MOD,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000208,Belgian MOD,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000253,Airbus Satellite Exchange SAS,DP-EC-0000209,Dutch MOD,ACC-DP-0000253,Airbus Satellite Exchange SAS
+ACC-DP-0000409,Kyndryl,DP-EC-0000112,Kyndryl,ACC-DP-0000409,Kyndryl
+ACC-DP-0000409,Kyndryl,DP-EC-0000274,First Nations Health Authority,ACC-DP-0000409,Kyndryl
+ACC-DP-0000409,Kyndryl,DP-EC-0000067,Cargill (Leduc PoC site 1),ACC-DP-0000409,Kyndryl
+ACC-DP-0000120,Hughes (India),DP-EC-0000032,Indian Navy,ACC-DP-0000120,Hughes (India)
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000069,Customer 38,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000021,OWT-DP1,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000065,OWT,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000075,OWT Beta Test Terminal,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000121,El Camino,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000122,L3HT,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000138,20124390,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000127,L3HT,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000163,20124467-2,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000162,20124467-1,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000197,20124475,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000245,20124483,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000063,SJA,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies,DP-EC-0000064,OWT Germany Demo,ACC-DP-0000225,TrustComm d/b/a OneWeb Technologies
+ACC-DP-0000276,AT&T Corp,DP-EC-0000169,AT&T - Seattle TEST Site 2022,ACC-DP-0000276,AT&T Corp
+ACC-DP-0000088,Eclipse,DP-EC-0000206,ASTEL S4,ACC-DP-0000088,Eclipse
+ACC-DP-0000112,Galaxy Broadband Communications Inc,DP-EC-0000273,DeBeers Gahcho Kue,ACC-DP-0000112,Galaxy Broadband Communications Inc
+ACC-DP-0000112,Galaxy Broadband Communications Inc,DP-EC-0000284,BIM,ACC-DP-0000112,Galaxy Broadband Communications Inc
+ACC-DP-0000112,Galaxy Broadband Communications Inc,DP-EC-0000047,Galaxy Broadband,ACC-DP-0000112,Galaxy Broadband Communications Inc
+ACC-DP-0000112,Galaxy Broadband Communications Inc,DP-EC-0000179,AE Meliadine,ACC-DP-0000112,Galaxy Broadband Communications Inc
+ACC-DP-0000112,Galaxy Broadband Communications Inc,DP-EC-0000180,Alamos,ACC-DP-0000112,Galaxy Broadband Communications Inc
+ACC-DP-0000117,Intelsat,DP-EC-0000177,American Airlines,ACC-DP-0000117,Intelsat
+ACC-DP-0000117,Intelsat,DP-EC-0000200,LATAM,ACC-DP-0000117,Intelsat
+ACC-DP-0000121,Hughes Network Systems LLC,DP-EC-0000289,Hughes Network Systems,ACC-DP-0000121,Hughes Network Systems LLC
+ACC-DP-0000121,Hughes Network Systems LLC,DP-EC-0000290,OneWeb for Hughes,ACC-DP-0000121,Hughes Network Systems LLC
+ACC-DP-0000121,Hughes Network Systems LLC,DP-EC-0000034,N/A,ACC-DP-0000121,Hughes Network Systems LLC
+ACC-DP-0000121,Hughes Network Systems LLC,DP-EC-0000133,Hughes Internal,ACC-DP-0000121,Hughes Network Systems LLC
+ACC-DP-0000121,Hughes Network Systems LLC,DP-EC-0000170,Hughes India CBH,ACC-DP-0000121,Hughes Network Systems LLC
+ACC-DP-0000141,Marlink Gov,DP-EC-0000042,United Nations Peacekeepers,ACC-DP-0000141,Marlink Gov
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000114,UT Alaska Communications Internet LLC,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000116,ORD-80838-Z3F5Y5,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000101,ACS Test,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000040,Test EC for NS and IC,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000043,ORD-81074-J2M2B2,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000041,ORD-80613-T9C8Y4,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000124,ORD-84582-X4W0Y5,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000123,ORD-84394-B2Q4C5,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000135,moved to individual Opps,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000285,ORD-105027-L5Y1D,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000288,ORD-83543-B5M4G2,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000286,ORD-104185-Z7F9R3,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000287,ORD-104187-W2B8M4,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000086,ORD-80834-J7G6C7,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000319,Alaska Communications Internet LLC,DP-EC-0000087,ORD-80836-X1H6X7,ACC-DP-0000319,Alaska Communications Internet LLC
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000071,NNK,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000118,Anchorage,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000073,ERA,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000072,SIX,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000074,RSE,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000117,NET,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000132,Split into different opps,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000165,ATB.1,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000014,PDI EC Test,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000056,ASTA,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000054,PDI.1,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000066,Akiak,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000341,Pacific Dataport Inc,DP-EC-0000055,ATO,ACC-DP-0000341,Pacific Dataport Inc
+ACC-DP-0000355,United TV,DP-EC-0000171,United TV,ACC-DP-0000355,United TV
+ACC-DP-0000356,Verizon,DP-EC-0000134,Verizon internal,ACC-DP-0000356,Verizon
+ACC-DP-0000368,Excelerate,DP-EC-0000203,UK Emergency Responders,ACC-DP-0000368,Excelerate
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000010,Qantas,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000035,LOT Polish Airlines,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000103,Hawaiian Airlines,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000102,American Airlines,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000104,LATAM,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000017,Delta Airlines,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000016,Air New Zealand,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000186,Emirates Airline,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000173,Panasonic Avionics Corp - DP,DP-EC-0000100,United Airlines,ACC-DP-0000173,Panasonic Avionics Corp - DP
+ACC-DP-0000210,Tusass,DP-EC-0000282,Nikkeli,ACC-DP-0000210,Tusass
+ACC-DP-0000210,Tusass,DP-EC-0000202,Greenfield,ACC-DP-0000210,Tusass
+ACC-DP-0000210,Tusass,DP-EC-0000201,UT Tusass,ACC-DP-0000210,Tusass
+ACC-DP-0000213,Telespazio France,DP-EC-0000160,French MOD,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000129,French Guiana,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000141,Lithuanian MOD,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000143,Hannover Police,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000142,French Fire Brigade,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000196,French Government Institution,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000205,European Maritime Safety Agency,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000204,French Home Office,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000213,Telespazio France,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000207,UK MoD welfare services,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000281,Belgian MOD,ACC-DP-0000213,Telespazio France
+ACC-DP-0000213,Telespazio France,DP-EC-0000168,Telespazio,ACC-DP-0000213,Telespazio France
+ACC-DP-0000312,ROCK Networks,DP-EC-0000189,Ahcor Ltd,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000247,Labrador Natuashish,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000062,Rock Networks,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000246,Canadian DND CANSOFCOM,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000061,DND IM Gp,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000090,Air Inuit Ltd.,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000091,PALairlines,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000092,Big Link Networks,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000088,MDA Ltd.,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000089,Makivik Corporation,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000222,CCG MCTS,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000236,Marine Atlantic Inc.,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000248,Tŝilhqot'in (Chilcotin) FN,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000216,Canadian Coast Guard,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000312,ROCK Networks,DP-EC-0000068,Rock Networks Demo site,ACC-DP-0000312,ROCK Networks
+ACC-DP-0000317,SAMI,DP-EC-0000175,Saudi Armed Forces,ACC-DP-0000317,SAMI
+ACC-DP-0000317,SAMI,DP-EC-0000174,KSA,ACC-DP-0000317,SAMI
+ACC-DP-0000385,PVT,DP-EC-0000131,n/a 2,ACC-DP-0000385,PVT
+ACC-DP-0000386,VTX1,DP-EC-0000130,N/A 1,ACC-DP-0000386,VTX1
+ACC-DP-0000405,SITA,DP-EC-0000111,Middle East Airlines,ACC-DP-0000405,SITA
+ACC-DP-0000408,Bigblu Broadband PLC,DP-EC-0000030,BB Launch,ACC-DP-0000408,Bigblu Broadband PLC
+ACC-DP-0000408,Bigblu Broadband PLC,DP-EC-0000031,BB Community Broadband,ACC-DP-0000408,Bigblu Broadband PLC
+ACC-DP-0000408,Bigblu Broadband PLC,DP-EC-0000029,Fish Farms Norge,ACC-DP-0000408,Bigblu Broadband PLC
+ACC-DP-0000408,Bigblu Broadband PLC,DP-EC-0000219,Bigblu Broadband,ACC-DP-0000408,Bigblu Broadband PLC
+ACC-DP-0000413,Air Force Company DEMO,DP-EC-0000038,Air Force End Customer,ACC-DP-0000413,Air Force Company DEMO
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000023,Neptune Energy,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000024,Woreley Parsons,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000291,Clarus Networks,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000028,ISG,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000027,Galliford Try,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000026,Balfour Beatty Vinci,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000025,Aviagen,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000022,Ithica Energy,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000536,Clarus Networks Ltd,DP-EC-0000164,EDF/Sizewell C,ACC-DP-0000536,Clarus Networks Ltd
+ACC-DP-0000574,Gogo Business Aviation,DP-EC-0000096,Bens end customer,ACC-DP-0000574,Gogo Business Aviation
+ACC-DP-0000539,Global RadioData Communications,DP-EC-0000276,Iceland fjarskiptastofa.,ACC-DP-0000539,Global RadioData Communications
+ACC-DP-0000539,Global RadioData Communications,DP-EC-0000036,Global RadioData Communications,ACC-DP-0000539,Global RadioData Communications
+ACC-DP-0000539,Global RadioData Communications,DP-EC-0000147,Irish Defence Force,ACC-DP-0000539,Global RadioData Communications
+ACC-DP-0000539,Global RadioData Communications,DP-EC-0000148,UK PJHQ,ACC-DP-0000539,Global RadioData Communications
+ACC-DP-0000539,Global RadioData Communications,DP-EC-0000198,Iceland Emergency Responders,ACC-DP-0000539,Global RadioData Communications
+ACC-DP-0000539,Global RadioData Communications,DP-EC-0000214,Connectivity Fieldlab North Sea,ACC-DP-0000539,Global RadioData Communications
+ACC-DP-0000539,Global RadioData Communications,DP-EC-0000227,UK Maritime and Coast Guard agency,ACC-DP-0000539,Global RadioData Communications
+ACC-DP-0000595,OneWeb UT - Intellian,DP-EC-0000271,OneWeb,ACC-DP-0000595,OneWeb UT - Intellian
+ACC-DP-0000555,OneWeb,DP-EC-0000260,United Kingdom Hydrographic Office,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000263,Air Arabia,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000262,Saudia,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000265,Air Nostrum,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000270,Vivacom,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000269,Sat-Elite,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000058,Norwegian Defence,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000057,Finland,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000155,Vroon Offshore,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000156,Carnival Cruise,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000221,BP,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000105,Singapore Airlines,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000106,Sportsliner,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000110,Fly Dubai,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000108,Air Canada,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000107,Condor Airlines,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000109,Fly Atlantic Airlines,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000217,Worley,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000167,Scorpio Tankers,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000166,Scorpio Tankers,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000176,LOT Polish Airlines,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000178,Air New Zealand,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000181,Hawaiian Airlines,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000182,LATAM,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000199,Shell International Trading and Shipping Company,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000224,Teekay Services Ltd,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000187,Emirates Airlines,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000188,Etihad Airways,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000223,Navarone S.A.,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000235,Gizat Global,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000233,Thome Ship Managament Pte Ltd,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000232,Hyundai Heavy Industries (HHI),ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000234,Ocean Technologies Group,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000244,"Oceaneering International, Inc.",ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000218,Zodiac Maritime,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000261,Royal Air Maroc,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000194,MOL LNG Transport Europe Ltd,ACC-DP-0000555,OneWeb
+ACC-DP-0000555,OneWeb,DP-EC-0000220,R3-IoT,ACC-DP-0000555,OneWeb
+ACC-DP-0000594,Anduril,DP-EC-0000173,Anduril Govt,ACC-DP-0000594,Anduril
+ACC-DP-0000549,OneWeb UT - Hughes,DP-EC-0000046,OneWeb,ACC-DP-0000549,OneWeb UT - Hughes
+ACC-DP-0000546,OneWeb UT,DP-EC-0000280,Shared Services Canada - RCMP,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000279,Shared Services Canada - Department of National Defence,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000272,Galaxy - Kingfisher,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000257,Galaxy - AE Meliadine UT 1 (VV Testing),ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000258,Galaxy - AE Meliadine UT 2 (VV Testing),ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000045,OneWeb,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000292,Galaxy - Vale,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000293,Galaxy - Glencore Raglan,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000294,Galaxy - Kiewit Raglan,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000295,Galaxy - Golder Victor,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000230,BT M&B,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000231,BT EE,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000125,Kyndryl training & demo system,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000126,NorthwesTel training & demo system,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000140,Norway defence,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000184,NorthwesTel - Yellowknife 1,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000185,NorthwesTel - Yellowknife 2,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000253,Galaxy - Pipestone 1,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000254,Galaxy - Pipestone 2,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000249,NorthwesTel - Iqaluit 1,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000250,NorthwesTel - Iqaluit 2,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000215,Softbank Komatsu,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000252,Kyndryl - AR Test 2,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000546,OneWeb UT,DP-EC-0000255,BT GS,ACC-DP-0000546,OneWeb UT
+ACC-DP-0000548,OneWeb Golden UT,DP-EC-0000044,One Web,ACC-DP-0000548,OneWeb Golden UT
+ACC-DP-0000476,Alaska Tribal Spectrum,DP-EC-0000283,Alaska Tribal Spectrum,ACC-DP-0000476,Alaska Tribal Spectrum
+ACC-DP-0000483,TEST - DP ACC TRAINING,DP-EC-0000008,TEST - END CUSTOMER TRAINING,ACC-DP-0000483,TEST - DP ACC TRAINING
+ACC-DP-0000483,TEST - DP ACC TRAINING,DP-EC-0000226,User EC test,ACC-DP-0000483,TEST - DP ACC TRAINING
+ACC-DP-0000662,BB Satellites,DP-EC-0000264,BB SAt DPa Agreemnt May 2022,ACC-DP-0000662,BB Satellites
+ACC-DP-0000647,OneWeb UT - Alaska,DP-EC-0000256,OneWeb,ACC-DP-0000647,OneWeb UT - Alaska
+Not Available,Not Available,Not Available,Not Available,DP-EC-0000113,NorthwestTel
+,,,,DP-EC-0000296,Diavik Diamond Mines ( Rio Tinto)
+,,,,DP-EC-0000077,Government of Nunavut
+,,,,DP-EC-0000033,EnQuest
+,,,,DP-EC-0000020,AST
+,,,,DP-EC-0000019,TaQa
+,,,,DP-EC-0000039,Q-00000107 EC
+,,,,DP-EC-0000097,Greenland University
+,,,,DP-EC-0000082,BT - Community Broadband UK
+,,,,DP-EC-0000080,BT - Global Services - BP Germany
+,,,,DP-EC-0000081,BT - EE ESN UK -pre 2021
+,,,,DP-EC-0000093,BT Test Madley
+,,,,DP-EC-0000095,BT Test Adastral
+,,,,DP-EC-0000094,BT Test Bristol
+,,,,DP-EC-0000115,Gas Pipeline
+,,,,DP-EC-0000161,BT Live
+,,,,DP-EC-0000239,BP plc
+,,,,DP-EC-0000242,Coast Guard
+,,,,DP-EC-0000243,Anglo American
+,,,,DP-EC-0000241,Enel S.p.A
+,,,,DP-EC-0000237,Schlumberger
+,,,,DP-EC-0000238,Royal Dutch Shell
+,,,,DP-EC-0000240,DHL
+,,,,DP-EC-0000136,BT Media and Broadcast - South UK
+,,,,DP-EC-0000079,BT - Media and Broadcast - OB
+,,,,DP-EC-0000083,TC-Energy
+,,,,DP-EC-0000078,BT - Enterprise UK
+,,,,DP-EC-0000277,JL Cadre Yachting
+,,,,DP-EC-0000275,P2P Networks
+,,,,DP-EC-0000266,North Sea Rig x 4
+,,,,DP-EC-0000259,North Sea fixed asset
+,,,,DP-EC-0000267,SSE Renewable
+,,,,DP-EC-0000229,Network Innovations
+,,,,DP-EC-0000172,FCDO Services
+,,,,DP-EC-0000015,Foreign Commonwealth & Development Office
+,,,,DP-EC-0000268,BP
+,,,,DP-EC-0000018,Chevron
+,,,,DP-EC-0000278,Fugro
+,,,,DP-EC-0000128,Total Energies
+,,,,DP-EC-0000225,Marlink AS
+,,,,DP-EC-0000190,Iceland Emergency Responders
+,,,,DP-EC-0000139,Danish DALO
+,,,,DP-EC-0000145,Swedish MOD
+,,,,DP-EC-0000144,Finnish MOD
+,,,,DP-EC-0000146,German Bundeswehr
+,,,,DP-EC-0000154,Airbus DS
+,,,,DP-EC-0000210,UK MOD
+,,,,DP-EC-0000212,Iceland Emergency Responders 112
+,,,,DP-EC-0000211,French MOD
+,,,,DP-EC-0000208,Belgian MOD
+,,,,DP-EC-0000209,Dutch MOD
+,,,,DP-EC-0000112,Kyndryl
+,,,,DP-EC-0000274,First Nations Health Authority
+,,,,DP-EC-0000067,Cargill (Leduc PoC site 1)
+,,,,DP-EC-0000032,Indian Navy
+,,,,DP-EC-0000069,Customer 38
+,,,,DP-EC-0000021,OWT-DP1
+,,,,DP-EC-0000065,OWT
+,,,,DP-EC-0000075,OWT Beta Test Terminal
+,,,,DP-EC-0000121,El Camino
+,,,,DP-EC-0000122,L3HT
+,,,,DP-EC-0000138,20124390
+,,,,DP-EC-0000127,L3HT
+,,,,DP-EC-0000163,20124467-2
+,,,,DP-EC-0000162,20124467-1
+,,,,DP-EC-0000197,20124475
+,,,,DP-EC-0000245,20124483
+,,,,DP-EC-0000063,SJA
+,,,,DP-EC-0000064,OWT Germany Demo
+,,,,DP-EC-0000169,AT&T - Seattle TEST Site 2022
+,,,,DP-EC-0000206,ASTEL S4
+,,,,DP-EC-0000273,DeBeers Gahcho Kue
+,,,,DP-EC-0000284,BIM
+,,,,DP-EC-0000047,Galaxy Broadband
+,,,,DP-EC-0000179,AE Meliadine
+,,,,DP-EC-0000180,Alamos
+,,,,DP-EC-0000177,American Airlines
+,,,,DP-EC-0000200,LATAM
+,,,,DP-EC-0000289,Hughes Network Systems
+,,,,DP-EC-0000290,OneWeb for Hughes
+,,,,DP-EC-0000034,N/A
+,,,,DP-EC-0000133,Hughes Internal
+,,,,DP-EC-0000170,Hughes India CBH
+,,,,DP-EC-0000042,United Nations Peacekeepers
+,,,,DP-EC-0000114,UT Alaska Communications Internet LLC
+,,,,DP-EC-0000116,ORD-80838-Z3F5Y5
+,,,,DP-EC-0000101,ACS Test
+,,,,DP-EC-0000040,Test EC for NS and IC
+,,,,DP-EC-0000043,ORD-81074-J2M2B2
+,,,,DP-EC-0000041,ORD-80613-T9C8Y4
+,,,,DP-EC-0000124,ORD-84582-X4W0Y5
+,,,,DP-EC-0000123,ORD-84394-B2Q4C5
+,,,,DP-EC-0000135,moved to individual Opps
+,,,,DP-EC-0000285,ORD-105027-L5Y1D
+,,,,DP-EC-0000288,ORD-83543-B5M4G2
+,,,,DP-EC-0000286,ORD-104185-Z7F9R3
+,,,,DP-EC-0000287,ORD-104187-W2B8M4
+,,,,DP-EC-0000086,ORD-80834-J7G6C7
+,,,,DP-EC-0000087,ORD-80836-X1H6X7
+,,,,DP-EC-0000071,NNK
+,,,,DP-EC-0000118,Anchorage
+,,,,DP-EC-0000073,ERA
+,,,,DP-EC-0000072,SIX
+,,,,DP-EC-0000074,RSE
+,,,,DP-EC-0000117,NET
+,,,,DP-EC-0000132,Split into different opps
+,,,,DP-EC-0000165,ATB.1
+,,,,DP-EC-0000014,PDI EC Test
+,,,,DP-EC-0000056,ASTA
+,,,,DP-EC-0000054,PDI.1
+,,,,DP-EC-0000066,Akiak
+,,,,DP-EC-0000055,ATO
+,,,,DP-EC-0000171,United TV
+,,,,DP-EC-0000134,Verizon internal
+,,,,DP-EC-0000203,UK Emergency Responders
+,,,,DP-EC-0000010,Qantas
+,,,,DP-EC-0000035,LOT Polish Airlines
+,,,,DP-EC-0000103,Hawaiian Airlines
+,,,,DP-EC-0000102,American Airlines
+,,,,DP-EC-0000104,LATAM
+,,,,DP-EC-0000017,Delta Airlines
+,,,,DP-EC-0000016,Air New Zealand
+,,,,DP-EC-0000186,Emirates Airline
+,,,,DP-EC-0000100,United Airlines
+,,,,DP-EC-0000282,Nikkeli
+,,,,DP-EC-0000202,Greenfield
+,,,,DP-EC-0000201,UT Tusass
+,,,,DP-EC-0000160,French MOD
+,,,,DP-EC-0000129,French Guiana
+,,,,DP-EC-0000141,Lithuanian MOD
+,,,,DP-EC-0000143,Hannover Police
+,,,,DP-EC-0000142,French Fire Brigade
+,,,,DP-EC-0000196,French Government Institution
+,,,,DP-EC-0000205,European Maritime Safety Agency
+,,,,DP-EC-0000204,French Home Office
+,,,,DP-EC-0000213,Telespazio France
+,,,,DP-EC-0000207,UK MoD welfare services
+,,,,DP-EC-0000281,Belgian MOD
+,,,,DP-EC-0000168,Telespazio
+,,,,DP-EC-0000189,Ahcor Ltd
+,,,,DP-EC-0000247,Labrador Natuashish
+,,,,DP-EC-0000062,Rock Networks
+,,,,DP-EC-0000246,Canadian DND CANSOFCOM
+,,,,DP-EC-0000061,DND IM Gp
+,,,,DP-EC-0000090,Air Inuit Ltd.
+,,,,DP-EC-0000091,PALairlines
+,,,,DP-EC-0000092,Big Link Networks
+,,,,DP-EC-0000088,MDA Ltd.
+,,,,DP-EC-0000089,Makivik Corporation
+,,,,DP-EC-0000222,CCG MCTS
+,,,,DP-EC-0000236,Marine Atlantic Inc.
+,,,,DP-EC-0000248,Tŝilhqot'in (Chilcotin) FN
+,,,,DP-EC-0000216,Canadian Coast Guard
+,,,,DP-EC-0000068,Rock Networks Demo site
+,,,,DP-EC-0000175,Saudi Armed Forces
+,,,,DP-EC-0000174,KSA
+,,,,DP-EC-0000131,n/a 2
+,,,,DP-EC-0000130,N/A 1
+,,,,DP-EC-0000111,Middle East Airlines
+,,,,DP-EC-0000030,BB Launch
+,,,,DP-EC-0000031,BB Community Broadband
+,,,,DP-EC-0000029,Fish Farms Norge
+,,,,DP-EC-0000219,Bigblu Broadband
+,,,,DP-EC-0000038,Air Force End Customer
+,,,,DP-EC-0000023,Neptune Energy
+,,,,DP-EC-0000024,Woreley Parsons
+,,,,DP-EC-0000291,Clarus Networks
+,,,,DP-EC-0000028,ISG
+,,,,DP-EC-0000027,Galliford Try
+,,,,DP-EC-0000026,Balfour Beatty Vinci
+,,,,DP-EC-0000025,Aviagen
+,,,,DP-EC-0000022,Ithica Energy
+,,,,DP-EC-0000164,EDF/Sizewell C
+,,,,DP-EC-0000096,Bens end customer
+,,,,DP-EC-0000276,Iceland fjarskiptastofa.
+,,,,DP-EC-0000036,Global RadioData Communications
+,,,,DP-EC-0000147,Irish Defence Force
+,,,,DP-EC-0000148,UK PJHQ
+,,,,DP-EC-0000198,Iceland Emergency Responders
+,,,,DP-EC-0000214,Connectivity Fieldlab North Sea
+,,,,DP-EC-0000227,UK Maritime and Coast Guard agency
+,,,,DP-EC-0000271,OneWeb
+,,,,DP-EC-0000260,United Kingdom Hydrographic Office
+,,,,DP-EC-0000263,Air Arabia
+,,,,DP-EC-0000262,Saudia
+,,,,DP-EC-0000265,Air Nostrum
+,,,,DP-EC-0000270,Vivacom
+,,,,DP-EC-0000269,Sat-Elite
+,,,,DP-EC-0000058,Norwegian Defence
+,,,,DP-EC-0000057,Finland
+,,,,DP-EC-0000155,Vroon Offshore
+,,,,DP-EC-0000156,Carnival Cruise
+,,,,DP-EC-0000221,BP
+,,,,DP-EC-0000105,Singapore Airlines
+,,,,DP-EC-0000106,Sportsliner
+,,,,DP-EC-0000110,Fly Dubai
+,,,,DP-EC-0000108,Air Canada
+,,,,DP-EC-0000107,Condor Airlines
+,,,,DP-EC-0000109,Fly Atlantic Airlines
+,,,,DP-EC-0000217,Worley
+,,,,DP-EC-0000167,Scorpio Tankers
+,,,,DP-EC-0000166,Scorpio Tankers
+,,,,DP-EC-0000176,LOT Polish Airlines
+,,,,DP-EC-0000178,Air New Zealand
+,,,,DP-EC-0000181,Hawaiian Airlines
+,,,,DP-EC-0000182,LATAM
+,,,,DP-EC-0000199,Shell International Trading and Shipping Company
+,,,,DP-EC-0000224,Teekay Services Ltd
+,,,,DP-EC-0000187,Emirates Airlines
+,,,,DP-EC-0000188,Etihad Airways
+,,,,DP-EC-0000223,Navarone S.A.
+,,,,DP-EC-0000235,Gizat Global
+,,,,DP-EC-0000233,Thome Ship Managament Pte Ltd
+,,,,DP-EC-0000232,Hyundai Heavy Industries (HHI)
+,,,,DP-EC-0000234,Ocean Technologies Group
+,,,,DP-EC-0000244,"Oceaneering International, Inc."
+,,,,DP-EC-0000218,Zodiac Maritime
+,,,,DP-EC-0000261,Royal Air Maroc
+,,,,DP-EC-0000194,MOL LNG Transport Europe Ltd
+,,,,DP-EC-0000220,R3-IoT
+,,,,DP-EC-0000173,Anduril Govt
+,,,,DP-EC-0000046,OneWeb
+,,,,DP-EC-0000280,Shared Services Canada - RCMP
+,,,,DP-EC-0000279,Shared Services Canada - Department of National Defence
+,,,,DP-EC-0000272,Galaxy - Kingfisher
+,,,,DP-EC-0000257,Galaxy - AE Meliadine UT 1 (VV Testing)
+,,,,DP-EC-0000258,Galaxy - AE Meliadine UT 2 (VV Testing)
+,,,,DP-EC-0000045,OneWeb
+,,,,DP-EC-0000292,Galaxy - Vale
+,,,,DP-EC-0000293,Galaxy - Glencore Raglan
+,,,,DP-EC-0000294,Galaxy - Kiewit Raglan
+,,,,DP-EC-0000295,Galaxy - Golder Victor
+,,,,DP-EC-0000230,BT M&B
+,,,,DP-EC-0000231,BT EE
+,,,,DP-EC-0000125,Kyndryl training & demo system
+,,,,DP-EC-0000126,NorthwesTel training & demo system
+,,,,DP-EC-0000140,Norway defence
+,,,,DP-EC-0000184,NorthwesTel - Yellowknife 1
+,,,,DP-EC-0000185,NorthwesTel - Yellowknife 2
+,,,,DP-EC-0000253,Galaxy - Pipestone 1
+,,,,DP-EC-0000254,Galaxy - Pipestone 2
+,,,,DP-EC-0000249,NorthwesTel - Iqaluit 1
+,,,,DP-EC-0000250,NorthwesTel - Iqaluit 2
+,,,,DP-EC-0000215,Softbank Komatsu
+,,,,DP-EC-0000252,Kyndryl - AR Test 2
+,,,,DP-EC-0000255,BT GS
+,,,,DP-EC-0000044,One Web
+,,,,DP-EC-0000283,Alaska Tribal Spectrum
+,,,,DP-EC-0000008,TEST - END CUSTOMER TRAINING
+,,,,DP-EC-0000226,User EC test
+,,,,DP-EC-0000264,BB SAt DPa Agreemnt May 2022
+,,,,DP-EC-0000256,OneWeb
